@@ -1,3 +1,5 @@
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=AI+Automation+Developer;Full+Stack+Developer;SaaS+Builder)
+
 # Hi 👋, I'm Khush Sheth
 
 💻 AI Automation & Full Stack Developer  
