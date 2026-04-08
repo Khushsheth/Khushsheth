@@ -24,3 +24,8 @@
 
 ## 🚀 My Goal
 To build smart AI systems that automate business work.
+
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Khushsheth&show_icons=true)
