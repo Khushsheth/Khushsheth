@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Khush Sheth
 
-<!--
-**Khushsheth/Khushsheth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AI Automation & Full Stack Developer  
+🚀 I build SaaS, AI Agents & Automation Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills
+- Python
+- JavaScript
+- React
+- Node.js
+- APIs
+- AI Automation
+
+---
+
+## 📫 Contact Me
+- Email: your@email.com
+
+---
+
+## 🚀 My Goal
+To build smart AI systems that automate business work.
