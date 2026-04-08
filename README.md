@@ -18,7 +18,7 @@
 ---
 
 ## 📫 Contact Me
-- Email: khushsheth042003@email.com
+- Email: khushsheth042003@gmail.com
 
 ---
 
