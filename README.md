@@ -23,4 +23,6 @@ Let's connect and build something great together!
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Khushsheth&show_icons=true)
+## 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushsheth&layout=compact)
