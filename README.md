@@ -21,8 +21,3 @@ Long-term collaborations
 Remote work opportunities
 Let's connect and build something great together!
 
-## 📊 GitHub Stats
-
-## 🔥 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushsheth&layout=compact)
