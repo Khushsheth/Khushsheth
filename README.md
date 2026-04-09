@@ -28,16 +28,29 @@ Let's connect and build something great together!
 Gmail Id:khushsheth042003@gmail.com
 
 
-## 🛠️ Tech Stack
+###  Tech Stack:
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+#### 💻 Languages & Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,vue,angular,html,css" />
+</p>
 
-### ⚙️ Frameworks & Tools
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+#### ⚙️ Backend & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,jquery" />
+</p>
 
-### 🤖 AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-grey?style=for-the-badge&logo=openai)
-![API](https://img.shields.io/badge/API-Integration-orange?style=for-the-badge)
+#### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,netlify,heroku" />
+</p>
+
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,dynamodb" />
+</p>
+
+#### 🧰 Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=npm,yarn,nginx,apache,kafka" />
+</p>
