@@ -10,10 +10,12 @@ Welcome to my GitHub profile!
 
 Developing innovative web apps using Angular.
 Exploring microservices architectures to improve scalability in PHP and Node.js applications.
+
 🌱 I’m currently learning
 
 Performance optimization in Node.js.
 The latest updates in Angular 18.
+
 📝 I'm available for:
 
 Freelance projects
