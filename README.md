@@ -27,3 +27,17 @@ Let's connect and build something great together!
 
 Gmail Id:khushsheth042003@gmail.com
 
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
+### 🤖 AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-grey?style=for-the-badge&logo=openai)
+![API](https://img.shields.io/badge/API-Integration-orange?style=for-the-badge)
