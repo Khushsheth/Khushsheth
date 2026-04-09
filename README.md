@@ -21,6 +21,7 @@ The latest updates in Angular 18.
 Freelance projects
 Long-term collaborations
 Remote work opportunities
+
 Let's connect and build something great together!
 
 
