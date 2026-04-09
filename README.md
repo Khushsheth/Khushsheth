@@ -52,5 +52,5 @@ Gmail Id:khushsheth042003@gmail.com
 
 #### 🧰 Tools & Others
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=npm,yarn,nginx,apache,kafka" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,npm,yarn" />
 </p>
