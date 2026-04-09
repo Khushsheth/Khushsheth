@@ -28,7 +28,7 @@ Let's connect and build something great together!
 Gmail Id:khushsheth042003@gmail.com
 
 
-###  Tech Stack:
+## 🛠️ Tech Stack
 
 #### 💻 Languages & Frontend
 <p align="left">
