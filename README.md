@@ -25,7 +25,7 @@ Remote work opportunities
 Let's connect and build something great together!
 
 
-Mail To :khushsheth042003@gmail.com
+Mail To :khush.softrefine@gmail.com
 
 
 ## 🛠️ Tech Stack
